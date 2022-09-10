@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - Entry
- * Description: prints alphabet in lowercase then in uppercase followed by a new line
+ * Description: prints alphabet in lowercase then in uppercase.
  * Return: Always 0 (success)
  */
 
@@ -14,7 +14,7 @@ int main(void)
 	{
 		putchar(ch);
 	}
-	for (ch - 'A'; ch <= 'Z'; ch++)
+	for (ch = 'A'; ch <= 'Z'; ch++)
 	{
 		putchar(ch);
 	}

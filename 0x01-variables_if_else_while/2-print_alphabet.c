@@ -1,10 +1,10 @@
 #include <stdio.h>
 #include <unistd.h>
-/*
+/**
  * main - Entry
- * Description: prints the alphabet in lowercase followed by a new line
+ * Description: prints the alphabet in lowercase.
  * Return: Always 0 (success)
- * */
+ */
 
 int main(void)
 {
