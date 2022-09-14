@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * print_alphabet_x10 - prints 10 times the alphabet, in lowercase then new line
+ * print_alphabet_x10 - prints 10 times the alphabet, in lowercase then new linue
+ * Return 0 (SUCCESS)
  */
 void print_alphabet_x10(void)
 {
@@ -20,4 +21,5 @@ void print_alphabet_x10(void)
 		_putchar('\n');
 		i++;
 	}
+	return ("SUCCESS");
 }
