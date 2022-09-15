@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints the first 50 Fibonacci numbers, starting with 1 and 2
+ * main - prints first 50 Fibonacci numbers, starting with 1 and 2
  * Return: Always 0 (Success)
  */
 int main(void)
@@ -21,7 +21,7 @@ int main(void)
 		{
 			printf("%ld\n", j);
 		}
-		next = j + K;
+		next = j + k;
 		j = k;
 		k = =next;
 	}
