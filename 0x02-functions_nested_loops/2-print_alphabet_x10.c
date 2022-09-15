@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * print_alphabet_x10 - prints 10 times the alphabet, in lowercase then new linue
+ * print_alphabet_x10 - prints 10 times the alphabet, in lowercase
  * Return 0 (SUCCESS)
  */
 void print_alphabet_x10(void)
