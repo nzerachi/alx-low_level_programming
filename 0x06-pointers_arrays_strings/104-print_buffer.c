@@ -3,8 +3,8 @@
 
 /**
  * print_buffer - Prints a buffer 10 bytes at a time,
- * 		from byte position, showing hex content,
- * 		displaying printable charcaters.
+ *	from byte position, showing hex content,
+ *	displaying printable charcaters.
  * @b: buffer to be printed.
  * @size: No_of bytes to be printed
  */
