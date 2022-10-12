@@ -8,4 +8,4 @@
  */
 
 #define PI 3.14159265359
-#ifdef /*PI_H*/
+#endif /*PI_H*/
