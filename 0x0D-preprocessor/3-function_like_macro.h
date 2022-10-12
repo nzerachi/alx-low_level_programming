@@ -4,9 +4,9 @@
 /**
  * File: 3-function_like_macro.h
  * Desc: Header file that defines ABS(x)
- *	computes absolute value of a number x
+ *	 computes absolute value of a number x
  */
 
 #define ABS(x) ((x>=0)?(x):(-x))
 
-#endii
+#endif
